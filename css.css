@@ -14,10 +14,14 @@ h1{
 }
 
 /* Make all <h2> elements orange */
-
+h2{
+    color: orangered;
+}
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
-
+li{
+    color: #2300be;
+}
 
 /*Change the background on every paragraph to be yellow*/
 
